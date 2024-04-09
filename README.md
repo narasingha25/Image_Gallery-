@@ -1,4 +1,10 @@
-# Image_Gallery
+## Image_Gallery
+
+ 
+
+##Demo 
+
+Follow the link 👇
 
 
-[LINK](https://imagebazar.netlify.app/)
+https://imagebazar.netlify.app/
